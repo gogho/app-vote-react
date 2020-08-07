@@ -16,13 +16,13 @@ class VoteApp extends Component {
         <div class="container">
           <div class="row">
             <div class="col-md-4">
-              <ProgrammingLanguage id="kubernetes" logo="kubernetes.png"/>
+              <Platform id="kubernetes" logo="kubernetes.png"/>
             </div>
             <div class="col-md-4">
-              <ProgrammingLanguage id="mesos" logo="mesos.png"/>
+              <Platform id="mesos" logo="mesos.png"/>
             </div>
             <div class="col-md-4">
-              <ProgrammingLanguage id="openshift" logo="openshift.png"/>
+              <Platform id="openshift" logo="openshift.png"/>
             </div>
           </div>
         </div>
